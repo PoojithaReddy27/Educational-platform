@@ -5,7 +5,9 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : ""
+      content : "Python Training For Data Science Course Online
+                 We prepare you for a Demanding Career
+                 Be a piece of the training journey that nurtures your skills to prepare you for a stunning and positive career run."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +18,9 @@ slider:
 
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Web Development with Python and Django | Python and Django Course
+                 Next-gen web dev pedagogy under one-roof
+                 Lets redefine the art of web development together by investing in the principles of confidence, growth, and practicums."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -27,7 +31,7 @@ slider:
 
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Artificial Intelligence and Data Science has changed the world"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
